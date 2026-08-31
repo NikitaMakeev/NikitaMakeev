@@ -54,15 +54,17 @@ Frontend
 
 Backend
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,php,ts,graphql&theme=dark" /> </p> <sub>+ REST API design</sub>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,php,ts,graphql&theme=dark" /> </p> 
+
+<sub>+ REST API design</sub>
 
 Mobile
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" /> </p> <sub>Firebase added as a common Flutter companion — remove if you don't actually use it</sub>
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" /> </p>
 
 Databases
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,mongodb,redis&theme=dark" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" /> </p>
 
 Tools & DevOps
 
