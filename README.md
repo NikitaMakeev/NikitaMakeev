@@ -7,9 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=NikitaMakeev&label=Profile%20views&color=6B7280&style=flat" alt="profile views" height="20"/>
 <img src="https://img.shields.io/github/followers/NikitaMakeev?label=followers&style=flat&color=6B7280" height="20"/>
 
-<a href="mailto:nikita.makeev.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/daymonru"><img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nikita-makeev-b89400331"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:nikita.makeev.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+  <a href="https://t.me/daymonru"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://github.com/NikitaMakeev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nikita-makeev-b89400331"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
@@ -45,9 +48,32 @@ Classic Snake implemented in Python as a self-contained learning project.
 
 ## Stack
 
-**Daily use:** React · Node.js · Go · MySQL · Docker · Git
+**Frontend**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,figma&theme=dark" />
+</p>
 
-**Also comfortable with:** Vue, Java, PHP, Flutter, Tailwind
+**Backend**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,go,java,php&theme=dark" />
+</p>
+
+**Mobile**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+</p>
+
+**Databases**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
+</p>
+
+**Tools & DevOps**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+</p>
+
+<sub>Daily driver: React · Node.js · Go — the rest is used regularly across client projects.</sub>
 
 <br>
 
