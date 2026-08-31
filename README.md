@@ -46,32 +46,27 @@ Classic Snake implemented in Python as a self-contained learning project.
 
 <br>
 
-## Stack
+Stack
 
-**Frontend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,figma&theme=dark" />
-</p>
+Frontend
 
-**Backend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,go,java,php&theme=dark" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,figma&theme=dark" /> </p>
 
-**Mobile**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-</p>
+Backend
 
-**Databases**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,php,ts,graphql&theme=dark" /> </p> <sub>+ REST API design</sub>
 
-**Tools & DevOps**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
-</p>
+Mobile
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" /> </p> <sub>Firebase added as a common Flutter companion — remove if you don't actually use it</sub>
+
+Databases
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,mongodb,redis&theme=dark" /> </p>
+
+Tools & DevOps
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> </p>
 
 <sub>Daily driver: React · Node.js · Go — the rest is used regularly across client projects.</sub>
 
