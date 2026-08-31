@@ -1,120 +1,105 @@
-<!-- ЦВЕТНАЯ ШАПКА -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=180&section=header&text=Nikita%20Makeev&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Estonia&descAlignY=62&descSize=18" />
+<div id="top" align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=140&section=header&text=Nikita%20Makeev&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Vue+%E2%80%A2+Node.js+%E2%80%A2+Java+%E2%80%A2+Go;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%B8%D0%B3%D1%80%D1%8B+%D0%B8+%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B;%D0%94%D1%80%D1%83%D0%B6%D1%83+%D1%81+Claude%2C+GPT-4+%D0%B8+Gemini+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=6B7280&center=true&vCenter=true&width=550&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Go;Building+web+apps%2C+platforms+%26+internal+tools" />
 
-<img src="https://komarev.com/ghpvc/?username=NikitaMakeev&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/NikitaMakeev?label=Followers&style=for-the-badge&color=2E9EF7" />
-<img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=NikitaMakeev&label=Profile%20views&color=6B7280&style=flat" alt="profile views" height="20"/>
+<img src="https://img.shields.io/github/followers/NikitaMakeev?label=followers&style=flat&color=6B7280" height="20"/>
+
+<a href="mailto:nikita.makeev.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/daymonru"><img src="https://img.shields.io/badge/Telegram-1F2937?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nikita-makeev-b89400331"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+## About
 
-### 🧑‍💻 О себе
+Full-stack developer based in Jõhvi / Tallinn, Estonia — combining part-time study (Software Development, Ida-Virumaa Kutsehariduskeskus, graduating June 2026) with freelance commercial work since 2022.
 
-- 🎓 Учусь в **Ida-Virumaa Kutsehariduskeskus** (Software Development), выпуск — июнь 2026
-- 💼 3+ года пишу full-stack: от лендингов на Bitrix до эсports-платформы с призовыми
-- 🛠️ Собрал с нуля **фотохостинг в стиле Google Photos** (Go + Flutter), **систему учёта склада в реальном времени**, и даже свою **игру про питона** 🐍
-- 🤖 Каждый день использую Claude / GPT-4 / Gemini, чтобы кодить быстрее и не сходить с ума
-- 📍 Jõhvi / Tallinn, Estonia
-- ⚡ Fun fact: делаю сайты клиентам из Эстонии, США, Австралии и Сингапура — не выходя из дома
+I build web platforms, internal tools, and small games end-to-end — frontend, backend, and deployment. Comfortable working async with clients across different time zones (currently EET/UTC+2). Working English: B2, daily use in client communication and documentation.
 
----
+<br>
 
-### 🧰 Стек технологий
+## Projects
+
+**Inventory Management System** — [`inventory-system`](https://github.com/NikitaMakeev/WebItemTrades)
+Real-time stock tracking for a small business, with live updates across multiple terminals.
+`Node.js` `React` `MySQL`
+
+**Photo Hosting Platform** — [`photo-hosting-go-flutter`](https://github.com/NikitaMakeev/-REST_API)
+Google Photos–style app with a Go REST API backend and a Flutter client.
+`Go` `Flutter` `REST API`
+
+**Travel Consultant Website** — [`ivkhk-travel-website`](https://github.com/NikitaMakeev/IVKHK_Reisikonsultant_Website)
+Client site for a travel consultancy, built and deployed from scratch.
+`HTML` `CSS` `PHP`
+
+**Snake Game** — [`snake-game-python`](https://github.com/NikitaMakeev/Junior-Software-Engineer)
+Classic Snake implemented in Python as a self-contained learning project.
+`Python`
+
+<br>
+
+## Stack
+
+**Daily use:** React · Node.js · Go · MySQL · Docker · Git
+
+**Also comfortable with:** Vue, Java, PHP, Flutter, Tailwind
+
+<br>
+
+## Coding activity
+
+<!-- Replace the WakaTime badge below with your own: sign up at wakatime.com,
+     install the plugin for your editor, then grab your badge URL from
+     wakatime.com/settings/badges -->
+<p align="left">
+<img src="https://img.shields.io/badge/WakaTime-connect%20your%20account%20to%20show%20real%20coding%20hours-6B7280?style=flat&logo=wakatime&logoColor=white" alt="wakatime placeholder"/>
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,figma,nodejs,java,go,flutter,php,mysql,mariadb,git,github,docker,py&theme=dark" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=NikitaMakeev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMakeev&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
 </div>
 
 <div align="center">
-<sub>Frontend: React · Vue · HTML5/CSS3 · Tailwind · Figma &nbsp;|&nbsp; Backend & Mobile: Node.js · Java · Go · Flutter · PHP · REST API &nbsp;|&nbsp; DB & Tools: MySQL · MariaDB · Bitrix CMS · Git · Agile</sub>
+<img src="https://streak-stats.demolab.com/?user=NikitaMakeev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
-
----
-
-### 🎲 Шутка дня (обновляется сама)
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Random Dev Jokes" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaMakeev&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 
----
+<br>
 
-### 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaMakeev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMakeev&layout=compact&theme=radical&hide_border=true" alt="top langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaMakeev&theme=radical&hide_border=true" alt="streak stats" />
-</p>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaMakeev&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
----
-
-### 📌 Избранные проекты
-
-<p align="center">
-  <a href="https://github.com/NikitaMakeev/-REST_API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaMakeev&repo=-REST_API&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NikitaMakeev/WebItemTrades">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaMakeev&repo=WebItemTrades&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NikitaMakeev/IVKHK_Reisikonsultant_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaMakeev&repo=IVKHK_Reisikonsultant_Website&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NikitaMakeev/Junior-Software-Engineer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaMakeev&repo=Junior-Software-Engineer&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-> 💡 Совет: закрепить именно эти карточки (и любые другие) можно ещё и нативно через кнопку **"Customize your pins"** на странице профиля — тогда они будут дублироваться отдельным официальным блоком GitHub.
-
----
-
-### 🐍 Змейка, поедающая мой контрибьюшн-граф
+## Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaMakeev/NikitaMakeev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaMakeev/NikitaMakeev/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/NikitaMakeev/NikitaMakeev/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/NikitaMakeev/NikitaMakeev/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
-<sub>⚠️ Появится только после того, как вы настроите GitHub Action ниже 👇</sub>
+<br>
 
----
+<div align="center">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day"/>
+</a>
+</div>
 
-### 📫 Как со мной связаться
+<br>
 
-<p align="center">
-  <a href="mailto:nikita.makeev.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/daymonru">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-makeev-b89400331">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## Let's work together
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:2E9EF7&height=100&section=footer" />
+Open to freelance and full-time opportunities. The fastest way to reach me is email or Telegram above — happy to jump on a call to discuss a project.
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:1F2937&height=80&section=footer" />
+<a href="#top"><img src="https://img.shields.io/static/v1?label=&message=back%20to%20top&color=6B7280&style=flat" alt="back to top"/></a>
+</div>
