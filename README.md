@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=140&section=header&text=Nikita%20Makeev&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=180&section=header&text=Nikita%20Makeev&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=72&descSize=16&descAlign=50" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=6B7280&center=true&vCenter=true&width=550&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Go;Building+web+apps%2C+platforms+%26+internal+tools" />
 
